@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: nginx:latest
+        image: registry.aliyuncs.com/google_containers/nginx:latest
         ports:
         - containerPort: 80
