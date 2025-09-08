@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: argocd-test-config
+  name: argocd-xinrui-config
   namespace: myapp # 确保这个命名空间与你的Application目标一致
   labels:
     app: test
