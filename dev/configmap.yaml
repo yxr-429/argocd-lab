@@ -8,5 +8,5 @@ metadata:
     tested-by: argocd
 data:
   # 这是一个测试键值对，用于验证ArgoCD的同步功能
-  test.message: "Hello from ArgoCD! This is the first revision."
+  test.message: "Hello from ArgoCD! This is the 2nd revision."
   application.status: "initialized"
