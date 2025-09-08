@@ -4,6 +4,7 @@ metadata:
   name: xinrui-service
   labels:
     app: testxinrui
+    label: quick
 spec:
   selector:
     app: myapp
