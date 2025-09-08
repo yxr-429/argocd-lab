@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: xinrui-service
   labels:
-    app: testxinrui
+    app: testdeutsch
     label: quick
 spec:
   selector:
