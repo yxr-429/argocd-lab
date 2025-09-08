@@ -4,7 +4,7 @@ metadata:
   name: argocd-xinrui-config
   namespace: myapp # 确保这个命名空间与你的Application目标一致
   labels:
-    app: test
+    app: testxinrui
     tested-by: argocd
 data:
   # 这是一个测试键值对，用于验证ArgoCD的同步功能
